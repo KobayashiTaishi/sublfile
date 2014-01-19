@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/Theme - Centurion/Galea.tmTheme",
+	"font_face": "Menlo",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Centurion.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": true,
+	"vintageous_enable_cmdline_mode": true,
+	"vintageous_reset_mode_when_switching_tabs": true,
+	"vintageous_use_ctrl_keys": true,
+	"vintageous_use_sys_clipboard": true
+}
